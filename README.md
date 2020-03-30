@@ -4,7 +4,7 @@
 
 ## View
 
-[阿里云镜像](https://96486d9b.cn/city-vein)
+[七牛云镜像](http://q7onyfcxa.bkt.clouddn.com)
 
 [GitHub Page](https://conv1d.github.io/city-vein)
 
