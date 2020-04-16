@@ -4,8 +4,6 @@
 
 ## View
 
-[七牛云镜像](http://q7onyfcxa.bkt.clouddn.com)
-
 [GitHub Page](https://conv1d.github.io/city-vein)
 
 ## Related
